@@ -1,0 +1,3 @@
+NAME = iwm
+LOCAL = $HOME/local
+BIN = $LOCAL/bin
